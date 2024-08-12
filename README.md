@@ -12,3 +12,6 @@ Loads NTDLL, parses the PE file, extracts "Zw" functions, retrieves their System
 - if you want to run and test ```go run main.go```
 
 ## Enjoy - Made by EByte :Happy
+
+# PoC
+![image](https://github.com/user-attachments/assets/295d3e89-573b-43f5-8125-3199306d9adb)
